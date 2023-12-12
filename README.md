@@ -1,0 +1,2 @@
+# epistemic_uncertainty_microscopy_image_classification
+Quantifying the epistemic uncertainty of microscopy image classification using Bayesian Deep Learning.
